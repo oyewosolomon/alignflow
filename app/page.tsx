@@ -265,7 +265,7 @@ export default function AlignFlowWebsite() {
                     whileHover={{ scale: 1 }}
                     transition={{ duration: 0.3 }}
                   />
-                  <span className="relative z-10 flex items-center">
+                  <span className="relative z-10 text-gray-600 flex items-center">
                     <Play className="mr-2 h-5 w-5" />
                     Watch Demo
                   </span>
