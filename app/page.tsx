@@ -1338,7 +1338,7 @@ export default function AlignFlowWebsite() {
                 <Button
                   size="lg"
                   variant="outline"
-                  className="border-white/20 text-white hover:bg-white/10 text-lg px-8 py-4"
+                  className="border-white/20 text-gray-600 hover:bg-white/10 text-lg px-8 py-4"
                 >
                   <Play className="mr-2 h-5 w-5" />
                   Watch Demo
